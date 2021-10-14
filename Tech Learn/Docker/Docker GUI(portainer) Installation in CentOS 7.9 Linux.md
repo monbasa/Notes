@@ -1,5 +1,7 @@
 ### 1.Docker GUI(portatiner) Installation in CentOS Linux 7
 
+![](./pics/haha.jpg)
+
 Portainer
 
 ### 2.Step to Step
